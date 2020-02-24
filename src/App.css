@@ -23,7 +23,14 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.colorButtons button {
+  padding: 20px;
+  margin: 5px;
+  border-radius: 50%;
+}
+.costButtons button {
+  margin: 5px;
+}
 .App-link {
   color: #61dafb;
 }
